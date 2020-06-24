@@ -29,6 +29,7 @@ I want it in a VM because it will be a standardised environment
 
 # User set up:
 
+
 1) Clone repo
 	- Provides you with a copy of provisioning-starter-code
 2) Open <git bash>
