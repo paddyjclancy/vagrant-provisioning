@@ -27,7 +27,7 @@ I want it in a VM because it will be a standardised environment
 		- Reverse proxy for app to talk on port
 		- App needed within the VM
 
-# User set up:
+# User Installation:
 
 
 1) Clone repo
