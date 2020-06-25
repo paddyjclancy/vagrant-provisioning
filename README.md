@@ -26,3 +26,11 @@
 6) `$ rake spec`
 	- To initialise and perform set tests
 	- EXPECTED: 9 EXAMPLES, 0 FAILURES
+
+7) `$ cd /app`
+8) `$ npm install`
+9) `$ npm start`
+	- 'Your app is ready and listening on port 3000'
+10) In browser, go to ip:port
+	- 192.168.10.100:3000
+	- Welcome to the Sparta Test App
