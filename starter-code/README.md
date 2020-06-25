@@ -26,7 +26,12 @@ I want it in a VM because it will be a standardised environment
 		- Port 80
 		- Reverse proxy for app to talk on port
 		- App needed within the VM
-
+	Pre-reqs
+		- Ruby
+		- Bundler
+		- VirtualBox / Vagrant
+		
+		
 # User Installation:
 
 
