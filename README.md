@@ -1,19 +1,16 @@
 # User Installation
 
-This context...
-I want to create a machine and set up a working app in it I want it in a VM because it will be a standardised environment
 
-
-This envrionment will be:
-	- ubuntu/xenial64  <--- VirtualBox + Vagrant required
-	- NodeJS
-	- Port 80
-	- Reverse proxy for app to talk on port
-	- App needed within the VM
-Pre-reqs
-	- Ruby
-	- Bundler
-	- VirtualBox / Vagrant
+	This envrionment will be:
+		- ubuntu/xenial64  <--- VirtualBox + Vagrant required
+		- NodeJS
+		- Port 80
+		- Reverse proxy for app to talk on port
+		- App needed within the VM
+	Pre-reqs
+		- Ruby
+		- Bundler
+		- VirtualBox / Vagrant
 
 
 
