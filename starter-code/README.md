@@ -42,7 +42,7 @@ I want it in a VM because it will be a standardised environment
 4) `$ vagrant up`
 	- Starts up VM server (will take some time)
 	- Check it is present / running in VirtualBox Manager
-	- $ vagrant ssh to enter (not necessity here)
+	- `$ vagrant ssh` to enter (not necessity here)
 5) `$ cd environment/spec-tests`
 6) `$ rake spec`
 	- To initialise and perform set tests
