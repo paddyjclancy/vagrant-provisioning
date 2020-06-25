@@ -38,12 +38,12 @@ I want it in a VM because it will be a standardised environment
 1) Clone repo
 	- Provides you with a copy of provisioning-starter-code
 2) Open git bash / equivalent
-3) $ cd /starter-code
-4) $ vagrant up
+3) `$ cd starter-code`
+4) `$ vagrant up`
 	- Starts up VM server (will take some time)
 	- Check it is present / running in VirtualBox Manager
 	- $ vagrant ssh to enter (not necessity here)
-5) $ cd environment/spec-tests
-6) $ rake spec
+5) `$ cd environment/spec-tests`
+6) `$ rake spec`
 	- To initialise and perform set tests
 	- EXPECTED: 9 EXAMPLES, 0 FAILURES
