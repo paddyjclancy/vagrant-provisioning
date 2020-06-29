@@ -1,3 +1,4 @@
+#!bin/bash
 
 # Update sources list
 sudo apt-get update -y
@@ -14,3 +15,11 @@ sudo apt-get install nodejs -y
 
 #Install pm2
 sudo npm install -g pm2
+
+
+source ~/.bashrc
+export DB_HOST="mongodb://192.168.10.100:3000/posts"
+
+
+# export DB_HOST=mongodb://192.168.10.100:3000/posts
+# echo $DB_HOST >> /home/vagrant/.bashrc
