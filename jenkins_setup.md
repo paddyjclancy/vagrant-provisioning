@@ -1,6 +1,6 @@
 # Jenkins Pipeline Set-up
 
-- How to add a repo to a pipeline, in a Jenkins Server
+How to add a repo to a pipeline, in a Jenkins Server
 
 
 
